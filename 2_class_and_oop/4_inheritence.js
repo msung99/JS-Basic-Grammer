@@ -29,7 +29,7 @@ console.log(jimin.sing());
 
 console.log(yujin instanceof IdolModel); // true 
 console.log(yujin instanceof FemaleIdolModel); // true
-console.log(yujin instanceof MaleIdolModel); // false
+console.log(yujin instanceof MaleIdolModel); // false 
 
 
 
